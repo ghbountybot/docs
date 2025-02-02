@@ -1,0 +1,19 @@
+{
+    "extends": "tsconfig-bb.json",
+    "include": [
+        ".vitepress/**/*"
+    ],
+    "compilerOptions": {
+        "moduleResolution": "bundler",
+        "module": "ESNext",
+        "target": "ESNext",
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+        "strict": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "baseUrl": ".",
+    }
+}
