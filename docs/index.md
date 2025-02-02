@@ -70,4 +70,4 @@ head:
     --vp-home-hero-image-filter: blur(72px);
   }
 }
-</style>
+</style> 
