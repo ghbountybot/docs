@@ -13,25 +13,25 @@ hero:
       text: Get Started
       link: /guide/getting-started
     - theme: alt
-      text: Why BountyBot?
-      link: /guide/why
+      text: View Supported Regions
+      link: /guide/supported-regions
     - theme: alt
       text: API Documentation
       link: /api/
 
 features:
   - icon: 🌍
-    title: Multi-Ecosystem Support
-    details: Supporting projects across major ecosystems including Rust, TypeScript, Python, Nix, and more. Seamlessly integrate with your favorite tech stack.
+    title: Global Payout Coverage
+    details: Support for 100+ countries across North America, Europe, Asia, Africa, and Oceania. Get paid in your local currency through our partnership with NEMO.
   - icon: 🔒
     title: Trust & Transparency
     details: Built with trust signals and transparent statistics. Every transaction and interaction is tracked and verifiable by the community.
-  - icon: 🌐
-    title: Global Accessibility
-    details: Available worldwide with comprehensive payment support. Get paid for your contributions no matter where you are.
+  - icon: 💸
+    title: Flexible Payments
+    details: Accept payments from 46 countries through Stripe, and send payouts to over 100 countries through NEMO. True global accessibility.
   - icon: ⚡
     title: Lightning Fast Payouts
-    details: Receive your bounty rewards quickly and securely through our automated payment system.
+    details: Quick and secure payouts through our automated system, with support for local bank transfers in most regions.
   - icon: 🔌
     title: Powerful REST API
     details: Integrate bounties into your own applications with our comprehensive REST API. Full documentation and examples included.
@@ -48,7 +48,7 @@ head:
       content: BountyBot - Earn Money Solving Open-Source Issues
   - - meta
     - name: og:description
-      content: A win-all bounty platform for open source projects. Get paid for your contributions.
+      content: A win-all bounty platform for open source projects. Get paid for your contributions in 100+ countries.
 ---
 
 <style>

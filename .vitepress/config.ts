@@ -93,8 +93,15 @@ export default defineConfig({
           text: 'Core Workflows',
           items: [
             { text: 'Funding Your First Bounty', link: '/guide/funding-first-bounty' },
-            { text: 'Solving Your First Bounty', link: '/guide/solving-first-bounty' },
-            { text: 'Withdrawing Your Funds', link: '/guide/withdrawing-funds' }
+            { text: 'Solving Your First Bounty', link: '/guide/solving-first-bounty' }
+          ]
+        },
+        {
+          text: 'Payments & Withdrawals',
+          items: [
+            { text: 'Withdrawing Your Funds', link: '/guide/withdrawing-funds' },
+            { text: 'New Money Company Integration', link: '/guide/new-money-company' },
+            { text: 'Supported Regions', link: '/guide/supported-regions' }
           ]
         },
         {
