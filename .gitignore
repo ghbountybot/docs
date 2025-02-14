@@ -258,3 +258,6 @@ secrets/
 # Sentry Config File
 .env.sentry-build-plugin
 .env*.local
+
+
+docs/.vitepress/cache
