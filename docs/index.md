@@ -22,13 +22,13 @@ hero:
 features:
   - icon: 🌍
     title: Global Payout Coverage
-    details: Support for 100+ countries across North America, Europe, Asia, Africa, and Oceania. Get paid in your local currency through our partnership with NEMO.
+    details: Support for 100+ countries across North America, Europe, Asia, Africa, and Oceania. Get paid in your local currency through our partnership with NMC.
   - icon: 🔒
     title: Trust & Transparency
     details: Built with trust signals and transparent statistics. Every transaction and interaction is tracked and verifiable by the community.
   - icon: 💸
     title: Flexible Payments
-    details: Accept payments from 46 countries through Stripe, and send payouts to over 100 countries through NEMO. True global accessibility.
+    details: Accept payments from 46 countries through Stripe, and send payouts to over 100 countries through NMC. True global accessibility.
   - icon: ⚡
     title: Lightning Fast Payouts
     details: Quick and secure payouts through our automated system, with support for local bank transfers in most regions.

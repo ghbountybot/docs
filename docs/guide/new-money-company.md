@@ -1,7 +1,7 @@
 # New Money Company Integration
 
 ::: tip What is New Money Company?
-New Money Company (NEMO) is BountyBot's payout processing partner, similar to Stripe Connect. When you receive a payout, funds are transferred to your NEMO account for withdrawal to your bank account.
+New Money Company (NMC) is BountyBot's payout processing partner, similar to Stripe Connect. When you receive a payout, funds are transferred to your NMC account for withdrawal to your bank account.
 :::
 
 ## How it Works
@@ -11,29 +11,29 @@ flowchart LR
     %% Define styles
     classDef default fill:#1e293b,stroke:#818cf8,stroke-width:2px,color:#ffffff,padding:10px
     
-    A[BountyBot Account] -->|Transfer| B[NEMO Account]
+    A[BountyBot Account] -->|Transfer| B[NMC Account]
     B -->|Withdrawal| C[Your Bank Account]
 ```
 
 ## Account Creation
 
-When you receive your first payout on BountyBot, we automatically create a NEMO account for you using:
+When you receive your first payout on BountyBot, we automatically create a NMC account for you using:
 - Your provided given and family name
 - Your email address associated with BountyBot
 
 ## Withdrawal Process
 
-1. **Balance Transfer**: When you request a withdrawal, we transfer your funds from BountyBot to your NEMO account
-2. **Identity Verification**: To withdraw funds to your bank account, you must complete NEMO's KYC process
-3. **Bank Transfer**: Once verified, you can transfer funds from NEMO to your bank account
+1. **Balance Transfer**: When you request a withdrawal, we transfer your funds from BountyBot to your NMC account
+2. **Identity Verification**: To withdraw funds to your bank account, you must complete NMC's KYC process
+3. **Bank Transfer**: Once verified, you can transfer funds from NMC to your bank account
 
 ::: warning Important
-BountyBot support cannot assist with NEMO's identity verification process. Please contact NEMO support directly for any KYC-related questions.
+BountyBot support cannot assist with NMC's identity verification process. Please contact NMC support directly for any KYC-related questions.
 :::
 
 ## Supported Jurisdictions
 
-NEMO supports withdrawals in numerous countries across multiple regions. Below is a comprehensive list of supported jurisdictions as of February 1, 2025.
+NMC supports withdrawals in numerous countries across multiple regions. Below is a comprehensive list of supported jurisdictions as of February 1, 2025.
 
 ::: details North America
 - Barbados
@@ -190,5 +190,5 @@ NEMO supports withdrawals in numerous countries across multiple regions. Below i
 :::
 
 ::: warning Ukraine Service Limitation
-*Service to Ukraine is limited to areas controlled by the Ukrainian Government and requires manual review by the NEMO compliance team. Please contact NEMO Premier Support for assistance with onboarding and verification.
+*Service to Ukraine is limited to areas controlled by the Ukrainian Government and requires manual review by the NMC compliance team. Please contact NMC Premier Support for assistance with onboarding and verification.
 :::

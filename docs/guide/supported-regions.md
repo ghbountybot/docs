@@ -1,6 +1,6 @@
 # Supported Regions
 
-BountyBot uses [Stripe](https://stripe.com) for accepting payments and [New Money Company (NEMO)](/guide/new-money-company) for processing payouts. Each service has different regional availability.
+BountyBot uses [Stripe](https://stripe.com) for accepting payments and [New Money Company (NMC)](/guide/new-money-company) for processing payouts. Each service has different regional availability.
 
 ## Payment Availability (Stripe)
 
@@ -72,10 +72,10 @@ Stripe allows us to accept payments from customers worldwide, with full platform
 - United Arab Emirates
 :::
 
-## Payout Availability (NEMO)
+## Payout Availability (NMC)
 
 ::: tip Global Payouts
-NEMO enables us to send payouts to contributors in over 100 countries across multiple regions. Each recipient must complete identity verification before receiving funds.
+NMC enables us to send payouts to contributors in over 100 countries across multiple regions. Each recipient must complete identity verification before receiving funds.
 :::
 
 ### Supported Regions
@@ -235,11 +235,11 @@ NEMO enables us to send payouts to contributors in over 100 countries across mul
 :::
 
 ::: warning Ukraine Service Limitation
-*Service to Ukraine is limited to areas controlled by the Ukrainian Government and requires manual review by the NEMO compliance team. Please contact NEMO Premier Support for assistance with onboarding and verification.
+*Service to Ukraine is limited to areas controlled by the Ukrainian Government and requires manual review by the NMC compliance team. Please contact NMC Premier Support for assistance with onboarding and verification.
 :::
 
 ## Service Status
 
 For real-time service status and updates:
 - [Stripe Status Page](https://status.stripe.com)
-- [NEMO Status Page](https://status.newmoneycompany.com) 
+- [NMC Status Page](https://status.newmoneycompany.com) 
